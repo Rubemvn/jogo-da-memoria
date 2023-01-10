@@ -97,3 +97,10 @@ body {
     border-radius: 1.5em;
     margin-top: 2.5em;
 }
+
+.notSelect{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+	user-select: none;
+}
